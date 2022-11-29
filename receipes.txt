@@ -1,2 +1,7 @@
 welcome 
 
+fry
+chicken
+mutton
+fish
+
