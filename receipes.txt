@@ -6,4 +6,7 @@ mutton
 fish
 
 
+pizza 
+beans
+
 thank you
